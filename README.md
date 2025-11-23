@@ -29,10 +29,24 @@
 
 ---
 
-## ⏱️ Wakatime
+## ⏱️ WakaTime
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@C-Herik-Dev&theme=dark&layout=compact" />
+
+  <!-- Card principal -->
+  <img 
+    height="300em"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=588a28e4-14bb-4397-8cc4-ac0966db4441&theme=dark&layout=compact&border_color=444&title_color=ffffff&text_color=cccccc"
+  />
+
+  <!-- Últimos 7 dias -->
+  <img
+    height="300em"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=588a28e4-14bb-4397-8cc4-ac0966db4441&theme=dark&range=last_7_days&border_color=444&title_color=ffffff&text_color=cccccc"
+  />
+
 </div>
+
 
 ---
 
