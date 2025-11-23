@@ -52,7 +52,7 @@
 
 ## ⭐ Projetos em destaque
 - 🎬 **PrimeFlix** 
-  - Repositório: https://github.com/C-Herik-Dev/primeflix (edite se necessário)
+  - Repositório: https://github.com/C-Herik-Dev/primeflix
 
 
 ---
