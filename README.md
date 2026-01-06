@@ -8,6 +8,8 @@
 
 > "Construindo aos poucos, evoluindo sempre."
 
+Sou desenvolvedor front-end focado em **ReactJS e TypeScript**, estudando e evoluindo continuamente através de projetos práticos. Gosto de criar interfaces simples, funcionais e bem estruturadas, sempre buscando boas práticas e organização de código.
+
 ---
 
 ## 🛠️ Tecnologias
@@ -21,48 +23,48 @@
 
 ---
 
-## 📊 Minhas estatísticas
+## 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=C-Herik-Dev&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Herik-Dev&layout=compact&theme=dark&text_color=cccccc&title_color=ffffff" />
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=C-Herik-Dev&theme=dark&hide_border=true&cache_seconds=21600"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Herik-Dev&layout=compact&theme=dark&cache_seconds=21600"
+  />
+</div>
+
+---
+
+## 📈 Atividade de Commits
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=C-Herik-Dev&theme=github-dark&hide_border=true"
+  />
 </div>
 
 ---
 
 ## ⏱️ WakaTime
-
 <div align="center">
-
-  <!-- Card principal -->
-  <img 
-    height="300em"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=588a28e4-14bb-4397-8cc4-ac0966db4441&theme=dark&layout=compact&border_color=444&title_color=ffffff&text_color=cccccc"
-  />
-
-  <!-- Últimos 7 dias -->
   <img
     height="300em"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=588a28e4-14bb-4397-8cc4-ac0966db4441&theme=dark&range=last_7_days&border_color=444&title_color=ffffff&text_color=cccccc"
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=588a28e4-14bb-4397-8cc4-ac0966db4441&theme=dark&layout=compact&cache_seconds=21600"
   />
-
 </div>
 
-
----
-
- <!-- ## ⭐ Projetos em destaque
-- 🎬 **PrimeFlix** 
-  - Repositório: https://github.com/C-Herik-Dev/primeflix -->
-
+> Caso o card fique indisponível, você pode acompanhar meu tempo de estudo diretamente no WakaTime:  
+> https://wakatime.com/@588a28e4-14bb-4397-8cc4-ac0966db4441
 
 ---
 
 ## 🌐 Onde me encontrar
-📸 Instagram: [heriky.hzn](https://www.instagram.com/heriky.hzn/)
+📸 **Instagram:** [heriky.hzn](https://www.instagram.com/heriky.dev/)
 
-💼 LinkedIn: [carlosherik-dev](https://www.linkedin.com/in/carlosherik-dev/)
+💼 **LinkedIn:** [carlosherik-dev](https://www.linkedin.com/in/carlosherik-dev/)
 
-⏱️ Wakatime: https://wakatime.com/@588a28e4-14bb-4397-8cc4-ac0966db4441
+⏱️ **WakaTime:** https://wakatime.com/@588a28e4-14bb-4397-8cc4-ac0966db4441
 
 ---
 
