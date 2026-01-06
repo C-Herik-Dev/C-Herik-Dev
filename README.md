@@ -23,28 +23,6 @@ Sou desenvolvedor front-end focado em **ReactJS e TypeScript**, estudando e evol
 
 ---
 
-## 📈 Contribuições
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=C-Herik-Dev&show_icons=false&hide_title=true&theme=dark&hide_border=true&cache_seconds=21600"
-  />
-</div>
-
----
-
-## ⏱️ WakaTime
-<div align="center">
-  <img
-    height="300em"
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=588a28e4-14bb-4397-8cc4-ac0966db4441&theme=dark&layout=compact&cache_seconds=21600"
-  />
-</div>
-
-> Caso o card fique indisponível, você pode acompanhar meu tempo de estudo diretamente no WakaTime:  
-> https://wakatime.com/@588a28e4-14bb-4397-8cc4-ac0966db4441
-
----
-
 ## 🌐 Onde me encontrar
 📸 **Instagram:** [heriky.hzn](https://www.instagram.com/heriky.dev/)
 
