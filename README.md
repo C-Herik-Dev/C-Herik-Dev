@@ -50,9 +50,9 @@
 
 ---
 
-## ⭐ Projetos em destaque
+ <!-- ## ⭐ Projetos em destaque
 - 🎬 **PrimeFlix** 
-  - Repositório: https://github.com/C-Herik-Dev/primeflix
+  - Repositório: https://github.com/C-Herik-Dev/primeflix -->
 
 
 ---
