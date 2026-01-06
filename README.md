@@ -22,12 +22,15 @@ Sou desenvolvedor front-end focado em **ReactJS e TypeScript**, estudando e evol
 
 ---
 
-## 🌐 Onde me encontrar
-📸 **Instagram:** [heriky.hzn](https://www.instagram.com/heriky.dev/)
+<div align="center">
 
-💼 **LinkedIn:** [carlosherik-dev](https://www.linkedin.com/in/carlosherik-dev/)
+🌐 <strong>Onde me encontrar</strong><br/><br/>
 
-⏱️ **WakaTime:** https://wakatime.com/@588a28e4-14bb-4397-8cc4-ac0966db4441
+<a href="https://www.instagram.com/heriky.dev/" target="_blank" rel="noopener noreferrer">Instagram</a> •
+<a href="https://www.linkedin.com/in/carlosherik-dev/" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
+<a href="https://wakatime.com/@588a28e4-14bb-4397-8cc4-ac0966db4441" target="_blank" rel="noopener noreferrer">WakaTime</a>
+
+</div>
 
 ---
 
