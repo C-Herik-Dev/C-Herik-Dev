@@ -1,4 +1,3 @@
-# Carlos Herik
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:4b4b4b&height=200&section=header&text=Carlos%20Herik&fontSize=45&fontColor=ffffff" />
