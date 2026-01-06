@@ -23,24 +23,10 @@ Sou desenvolvedor front-end focado em **ReactJS e TypeScript**, estudando e evol
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 Contribuições
 <div align="center">
   <img
-    height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=C-Herik-Dev&theme=dark&hide_border=true&cache_seconds=21600"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Herik-Dev&layout=compact&theme=dark&cache_seconds=21600"
-  />
-</div>
-
----
-
-## 📈 Atividade de Commits
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=C-Herik-Dev&theme=github-dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=C-Herik-Dev&show_icons=false&hide_title=true&theme=dark&hide_border=true&cache_seconds=21600"
   />
 </div>
 
