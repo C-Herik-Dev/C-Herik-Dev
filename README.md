@@ -1,34 +1,53 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:4b4b4b&height=200&section=header&text=Carlos%20Herik&fontSize=45&fontColor=ffffff" />
 </div>
 
-## 🌎 Desenvolvedor Front-end
+## 👋 Desenvolvedor Front-end
 
-> "Construindo aos poucos, evoluindo sempre."
+Sou desenvolvedor front-end focado em **ReactJS e TypeScript**, construindo projetos práticos para evoluir constantemente como desenvolvedor.  
+Gosto de criar interfaces **simples, funcionais e bem estruturadas**, com atenção à experiência do usuário e organização de código.
 
-Sou desenvolvedor front-end focado em **ReactJS e TypeScript**, estudando e evoluindo continuamente através de projetos práticos. Gosto de criar interfaces simples, funcionais e bem estruturadas, sempre buscando boas práticas e organização de código.
+> _“Construindo aos poucos, evoluindo sempre.”_
 
 ---
 
-## 🛠️ Tecnologias
+## 🌐 Portfólio
+
+🚀 Confira meus projetos e estudos em produção:  
+👉 **https://herikdev.vercel.app**
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="TS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="JavaScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="TypeScript" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 ---
 
+## 📚 O que estou estudando atualmente
+
+- React avançado (Context API, estado global)
+- Componentização e boas práticas
+- Consumo de APIs
+- UX/UI para aplicações web
+- Projetos práticos para portfólio
+
+---
+
+## 📬 Onde me encontrar
+
 <div align="center">
 
-🌐 <strong>Onde me encontrar</strong><br/><br/>
-
-<a href="https://www.instagram.com/heriky.dev/" target="_blank" rel="noopener noreferrer">Instagram</a> •
-<a href="https://www.linkedin.com/in/carlosherik-dev/" target="_blank" rel="noopener noreferrer">LinkedIn</a> •
-<a href="https://wakatime.com/@588a28e4-14bb-4397-8cc4-ac0966db4441" target="_blank" rel="noopener noreferrer">WakaTime</a>
+<a href="https://herikdev.vercel.app" target="_blank">🌐 Portfólio</a> •
+<a href="https://www.linkedin.com/in/carlosherik-dev/" target="_blank">LinkedIn</a> •
+<a href="https://www.instagram.com/heriky.dev/" target="_blank">Instagram</a> •
+<a href="https://wakatime.com/@588a28e4-14bb-4397-8cc4-ac0966db4441" target="_blank">WakaTime</a>
 
 </div>
 
